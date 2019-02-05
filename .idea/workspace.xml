@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1f82bf4-b7fd-474d-b2b8-8f93e75b5e28" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/add-new-emp.html" beforeDir="false" afterPath="$PROJECT_DIR$/add-new-emp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/area.html" beforeDir="false" afterPath="$PROJECT_DIR$/area.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/deprtment.html" beforeDir="false" afterPath="$PROJECT_DIR$/deprtment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee.html" beforeDir="false" afterPath="$PROJECT_DIR$/employee.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/msw.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/msw.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/images/icon/msw.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pmd.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pmd.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/images/icon/pmd.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/smd.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/images/icon/smd.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wms.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wms.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/images/icon/wms.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/view-dep.html" beforeDir="false" afterPath="$PROJECT_DIR$/view-dep.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,20 +82,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="deprtment.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="deprtment.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/deprtment.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
-              <caret line="198" column="56" lean-forward="true" selection-start-line="198" selection-start-column="56" selection-end-line="198" selection-end-column="56" />
+            <state relative-caret-position="257">
+              <caret line="195" column="48" lean-forward="true" selection-start-line="195" selection-start-column="48" selection-end-line="195" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="view-dep.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="view-dep.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/view-dep.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="172" column="56" lean-forward="true" selection-start-line="172" selection-start-column="56" selection-end-line="172" selection-end-column="56" />
+            <state relative-caret-position="-15">
+              <caret line="165" column="66" selection-start-line="165" selection-start-column="66" selection-end-line="165" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -141,8 +142,8 @@
         <option value="$PROJECT_DIR$/employee.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/dashboard.html" />
-        <option value="$PROJECT_DIR$/deprtment.html" />
         <option value="$PROJECT_DIR$/view-dep.html" />
+        <option value="$PROJECT_DIR$/deprtment.html" />
       </list>
     </option>
   </component>
@@ -193,12 +194,13 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Isuru\Downloads\CoolAdmin-master" />
-      <recent name="C:\Users\Isuru\Downloads\CoolAdmin-master\images\icon" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Isuru\Downloads\CoolAdmin-master\images" />
+      <recent name="C:\Users\Isuru\Downloads\CoolAdmin-master\images\icon" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Isuru\Documents\ctc web portal\images\icon" />
+      <recent name="C:\Users\Isuru\Downloads\CoolAdmin-master" />
       <recent name="C:\Users\Isuru\Downloads\CoolAdmin-master\images\icon" />
     </key>
   </component>
@@ -226,12 +228,20 @@
       <updated>1549260954288</updated>
       <workItem from="1549260956734" duration="25303000" />
       <workItem from="1549341950619" duration="966000" />
-      <workItem from="1549343734565" duration="313000" />
+      <workItem from="1549343734565" duration="756000" />
     </task>
+    <task id="LOCAL-00001" summary="2nd version">
+      <created>1549344128865</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549344128865</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26582000" />
+    <option name="totallyTimeSpent" value="27025000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -284,6 +294,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2nd version" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd version" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dashboard.html">
@@ -495,17 +509,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deprtment.html">
+    <entry file="file://$PROJECT_DIR$/view-dep.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="198" column="56" lean-forward="true" selection-start-line="198" selection-start-column="56" selection-end-line="198" selection-end-column="56" />
+        <state relative-caret-position="-15">
+          <caret line="165" column="66" selection-start-line="165" selection-start-column="66" selection-end-line="165" selection-end-column="66" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/view-dep.html">
+    <entry file="file://$PROJECT_DIR$/deprtment.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="172" column="56" lean-forward="true" selection-start-line="172" selection-start-column="56" selection-end-line="172" selection-end-column="56" />
+        <state relative-caret-position="257">
+          <caret line="195" column="48" lean-forward="true" selection-start-line="195" selection-start-column="48" selection-end-line="195" selection-end-column="48" />
         </state>
       </provider>
     </entry>
